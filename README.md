@@ -258,5 +258,5 @@ A medida que la temperatura disminuye, se reduce la probabilidad de aceptar solu
 
 ## Autoría
 
-Trabajo desarrollado en el contexto de la asignatura **ICI4151-1 - Optimización / Investigación de Operaciones**.
+Trabajo desarrollado en el contexto de la asignatura **ICI4151-1 - Optimización**.
 
